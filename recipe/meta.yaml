@@ -4,8 +4,8 @@ package:
 source:
   path: ../src
 build:
-  number: 1
-  skip: True  # [win]
+  number: 2
+  skip: True # [win]
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-skip-dependency-feedstock
   license_file: LICENSE
