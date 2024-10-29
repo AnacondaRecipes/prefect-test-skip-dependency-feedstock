@@ -1,13 +1,13 @@
 package:
-  name: prefect-test-dependency
+  name: prefect-test-skip-dependency
   version: 1.0
 source:
   path: ../src
 build:
-  number: 24
+  number: 1
   skip: True  # [win]
 about:
-  home: https://github.com/AnacondaRecipes/prefect-test-dependency-feedstock
+  home: https://github.com/AnacondaRecipes/prefect-test-skip-dependency-feedstock
   license_file: LICENSE
   license: BSD-3-Clause
   license_family: BSD
