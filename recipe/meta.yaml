@@ -5,6 +5,7 @@ source:
   path: ../src
 build:
   number: 24
+  skip: True  # [win]
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-dependency-feedstock
   license_file: LICENSE
